@@ -3,7 +3,7 @@ Landing Page for the odin project
 
 ## Task
 Create the following landing page:  
-![image](/example.png)
+![image](/assets/example.png)
 
 ## Skills Required
 
