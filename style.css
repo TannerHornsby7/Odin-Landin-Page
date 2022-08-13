@@ -79,3 +79,37 @@ img {
     width: 400px;
     height: 250px;
 }
+
+.info.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info.card h2 {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.info.card .tile {
+    max-width: 150px;
+    color: #1F2937;
+    font-size: 14px;
+
+}
+
+.tilelist {
+    margin-top: -25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding: 50px;
+}
+
+.info.card img {
+    width: 150px;
+    height: 150px;
+    border:2px solid #3882F6;
+}
