@@ -113,3 +113,25 @@ img {
     height: 150px;
     border:2px solid #3882F6;
 }
+
+.quote.card {
+    background-color:#E5E7Eb;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote.card #saying {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+}
+
+.quote.card #author {
+    text-align: right;
+    -ms-flex-align: end;
+    font-weight: bold;
+    font-size: large;
+}
